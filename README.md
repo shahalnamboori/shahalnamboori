@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shahalnamboori
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently working as iOS Developer at Kaseya
+- 💞️ I’m looking to collaborate on mobile app development projects
+- 📫 You can reach me at shahal.etsaw@gmail.com
